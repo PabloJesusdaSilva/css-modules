@@ -16,11 +16,13 @@
 }
 
 .title {
-  margin-top: 14px;
+  margin-top: 12px;
+  font-size: 26px;
 }
 
 .subtitle {
-  margin: 20px 0 0 -50px;
+  margin: 16px 0 0 -50px;
+  font-size: 18px;
 }
 
 .input {

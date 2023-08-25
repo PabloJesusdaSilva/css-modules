@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  background-color: #f3f5f7;
+}
