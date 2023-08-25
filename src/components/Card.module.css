@@ -32,3 +32,9 @@
   line-height: 20px;
   color: #717171;
 }
+
+@media (max-width: 420px) {
+  .card {
+    width: 414px;
+  }
+}
