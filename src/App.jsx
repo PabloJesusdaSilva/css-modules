@@ -1,4 +1,4 @@
-import Header from "./partials/header";
+import Header from "./partials/Header";
 
 const App = () => {
   return (
