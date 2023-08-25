@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: cent;
+  width: 600px;
+  margin-top: 30px;
+  padding: 25px;
+  gap: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgba(19, 19, 31, 0.05);
+  background-color: #FFF;
+}
+
+.card:first-child {
+  margin-top: 60px;
+}
+
+.data {
+  font-size: 12px;
+  margin-bottom: 10px;
+  color: #717171;
+}
+
+.title {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  color: #717171;
+}
